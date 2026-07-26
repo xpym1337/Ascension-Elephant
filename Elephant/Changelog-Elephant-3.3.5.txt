@@ -1,0 +1,42 @@
+------------------------------------------------------------------------
+r249 | pb_ee1 | 2014-05-14 07:53:27 +0000 (Wed, 14 May 2014) | 1 line
+Changed paths:
+   A /tags/3.3.5 (from /trunk:248)
+
+Tagging as 3.3.5
+------------------------------------------------------------------------
+r248 | pb_ee1 | 2014-05-14 07:52:22 +0000 (Wed, 14 May 2014) | 1 line
+Changed paths:
+   M /trunk/Elephant.toc
+
+Using @project-version@
+------------------------------------------------------------------------
+r247 | pb_ee1 | 2014-05-14 07:48:13 +0000 (Wed, 14 May 2014) | 1 line
+Changed paths:
+   M /trunk/Broker.lua
+   M /trunk/Core.lua
+   M /trunk/Event.lua
+   M /trunk/Initialize.lua
+   M /trunk/Interface-Dropdown.lua
+   M /trunk/Interface.lua
+   M /trunk/Locales/Locale-deDE.lua
+   M /trunk/Locales/Locale-enUS.lua
+   M /trunk/Locales/Locale-frFR.lua
+   M /trunk/Locales/Locale-ruRU.lua
+   M /trunk/Locales/Locale-zhCN.lua
+   M /trunk/Locales/Locale-zhTW.lua
+   M /trunk/Message.lua
+   M /trunk/Options.lua
+   M /trunk/Structure.lua
+
+Some \t cleanup
+------------------------------------------------------------------------
+r246 | pb_ee1 | 2014-05-14 07:37:46 +0000 (Wed, 14 May 2014) | 1 line
+Changed paths:
+   M /trunk/Core.lua
+   M /trunk/Locales/Locale-enUS.lua
+   M /trunk/Locales/Locale-frFR.lua
+   M /trunk/Options.lua
+
+Now using max log limit of 10,000 + warning message for memory usage
+------------------------------------------------------------------------
